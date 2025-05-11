@@ -1,0 +1,8 @@
+﻿@model Product
+<h2>Chi tiết sản phẩm</h2>
+
+<p><strong>Id:</strong> @Model.Id</p>
+<p><strong>Tên:</strong> @Model.Name</p>
+<p><strong>Giá:</strong> @Model.Price.ToString("C")</p>
+
+<a href="@Url.Action("Index", "Product")">Quay lại</a>
