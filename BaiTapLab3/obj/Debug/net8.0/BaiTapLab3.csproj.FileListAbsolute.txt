@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\BaiTapBackEnd\BaiTapTrenLop\BaiTapLab3\bin\Debug\net8.0\appsettings.Development.json
 C:\BaiTapBackEnd\BaiTapTrenLop\BaiTapLab3\bin\Debug\net8.0\appsettings.json
 C:\BaiTapBackEnd\BaiTapTrenLop\BaiTapLab3\bin\Debug\net8.0\BaiTapLab3.staticwebassets.runtime.json
@@ -229,3 +230,39 @@ C:\BaiTapBackEnd\BaiTapTrenLop\BaiTapLab3\obj\Debug\net8.0\refint\BaiTapLab3.dll
 C:\BaiTapBackEnd\BaiTapTrenLop\BaiTapLab3\obj\Debug\net8.0\BaiTapLab3.pdb
 C:\BaiTapBackEnd\BaiTapTrenLop\BaiTapLab3\obj\Debug\net8.0\BaiTapLab3.genruntimeconfig.cache
 C:\BaiTapBackEnd\BaiTapTrenLop\BaiTapLab3\obj\Debug\net8.0\ref\BaiTapLab3.dll
+=======
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\BaiTapLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\BaiTapLab3.AssemblyInfoInputs.cache
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\BaiTapLab3.AssemblyInfo.cs
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\BaiTapLab3.csproj.CoreCompileInputs.cache
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\BaiTapLab3.MvcApplicationPartsAssemblyInfo.cache
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\BaiTapLab3.RazorAssemblyInfo.cache
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\BaiTapLab3.RazorAssemblyInfo.cs
+C:\BACK_END\LAB.3\BaiTapLab3\bin\Debug\net8.0\appsettings.Development.json
+C:\BACK_END\LAB.3\BaiTapLab3\bin\Debug\net8.0\appsettings.json
+C:\BACK_END\LAB.3\BaiTapLab3\bin\Debug\net8.0\BaiTapLab3.staticwebassets.runtime.json
+C:\BACK_END\LAB.3\BaiTapLab3\bin\Debug\net8.0\BaiTapLab3.staticwebassets.endpoints.json
+C:\BACK_END\LAB.3\BaiTapLab3\bin\Debug\net8.0\BaiTapLab3.exe
+C:\BACK_END\LAB.3\BaiTapLab3\bin\Debug\net8.0\BaiTapLab3.deps.json
+C:\BACK_END\LAB.3\BaiTapLab3\bin\Debug\net8.0\BaiTapLab3.runtimeconfig.json
+C:\BACK_END\LAB.3\BaiTapLab3\bin\Debug\net8.0\BaiTapLab3.dll
+C:\BACK_END\LAB.3\BaiTapLab3\bin\Debug\net8.0\BaiTapLab3.pdb
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\scopedcss\bundle\BaiTapLab3.styles.css
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\scopedcss\projectbundle\BaiTapLab3.bundle.scp.css
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\staticwebassets.build.json
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\staticwebassets.development.json
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\staticwebassets\msbuild.BaiTapLab3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\staticwebassets\msbuild.BaiTapLab3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\staticwebassets\msbuild.build.BaiTapLab3.props
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BaiTapLab3.props
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BaiTapLab3.props
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\BaiTapLab3.dll
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\refint\BaiTapLab3.dll
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\BaiTapLab3.pdb
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\BaiTapLab3.genruntimeconfig.cache
+C:\BACK_END\LAB.3\BaiTapLab3\obj\Debug\net8.0\ref\BaiTapLab3.dll
+>>>>>>> e1d2f840b329d59cb0f7be18a2e9e9669af8599f

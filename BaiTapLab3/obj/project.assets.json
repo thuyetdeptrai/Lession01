@@ -1,6 +1,7 @@
 {
   "version": 3,
   "targets": {
+<<<<<<< HEAD
     "net8.0": {
       "Humanizer/2.14.1": {
         "type": "package",
@@ -5564,6 +5565,13 @@
     "net8.0": [
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.7"
     ]
+=======
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+>>>>>>> e1d2f840b329d59cb0f7be18a2e9e9669af8599f
   },
   "packageFolders": {
     "C:\\Users\\thuye\\.nuget\\packages\\": {},
@@ -5572,11 +5580,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\BaiTapLab3\\BaiTapLab3.csproj",
       "projectName": "BaiTapLab3",
       "projectPath": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\BaiTapLab3\\BaiTapLab3.csproj",
       "packagesPath": "C:\\Users\\thuye\\.nuget\\packages\\",
       "outputPath": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\BaiTapLab3\\obj\\",
+=======
+      "projectUniqueName": "C:\\BACK_END\\LAB.3\\BaiTapLab3\\BaiTapLab3.csproj",
+      "projectName": "BaiTapLab3",
+      "projectPath": "C:\\BACK_END\\LAB.3\\BaiTapLab3\\BaiTapLab3.csproj",
+      "packagesPath": "C:\\Users\\thuye\\.nuget\\packages\\",
+      "outputPath": "C:\\BACK_END\\LAB.3\\BaiTapLab3\\obj\\",
+>>>>>>> e1d2f840b329d59cb0f7be18a2e9e9669af8599f
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5614,12 +5630,15 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+<<<<<<< HEAD
         "dependencies": {
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[8.0.7, )"
           }
         },
+=======
+>>>>>>> e1d2f840b329d59cb0f7be18a2e9e9669af8599f
         "imports": [
           "net461",
           "net462",

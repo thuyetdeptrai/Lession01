@@ -1,0 +1,183 @@
+﻿using System;
+using System.Collections.Generic;
+
+// Lớp cơ sở
+class CanBo
+{
+public string HoTen { get; set; }
+public int NamSinh { get; set; }
+public string GioiTinh { get; set; }
+public string DiaChi { get; set; }
+
+public virtual void Nhap()
+{
+Console.Write("Họ tên: ");
+HoTen = Console.ReadLine();
+Console.Write("Năm sinh: ");
+NamSinh = int.Parse(Console.ReadLine());
+Console.Write("Giới tính: ");
+GioiTinh = Console.ReadLine();
+Console.Write("Địa chỉ: ");
+DiaChi = Console.ReadLine();
+}
+
+public virtual void Xuat()
+{
+Console.WriteLine($"Họ tên: {HoTen}, Năm sinh: {NamSinh}, Giới tính: {GioiTinh}, Địa chỉ: {DiaChi}");
+}
+
+public virtual string Loai() => "CanBo";
+}
+
+// Lớp Công nhân
+class CongNhan : CanBo
+{
+public string Bac { get; set; } // ví dụ "3/7", "5/7"
+
+public override void Nhap()
+{
+base.Nhap();
+Console.Write("Bậc (vd: 3/7): ");
+Bac = Console.ReadLine();
+}
+
+public override void Xuat()
+{
+base.Xuat();
+Console.WriteLine($"Bậc: {Bac}");
+}
+
+public override string Loai() => "CongNhan";
+}
+
+// Lớp Kỹ sư
+class KySu : CanBo
+{
+public string NganhDaoTao { get; set; }
+
+public override void Nhap()
+{
+base.Nhap();
+Console.Write("Ngành đào tạo: ");
+NganhDaoTao = Console.ReadLine();
+}
+
+public override void Xuat()
+{
+base.Xuat();
+Console.WriteLine($"Ngành đào tạo: {NganhDaoTao}");
+}
+
+public override string Loai() => "KySu";
+}
+
+// Lớp Nhân viên
+class NhanVien : CanBo
+{
+public string CongViec { get; set; }
+
+public override void Nhap()
+{
+base.Nhap();
+Console.Write("Công việc: ");
+CongViec = Console.ReadLine();
+}
+
+public override void Xuat()
+{
+base.Xuat();
+Console.WriteLine($"Công việc: {CongViec}");
+}
+
+public override string Loai() => "NhanVien";
+}
+
+// Lớp quản lý cán bộ
+class QLCB
+{
+private List<CanBo>
+	danhSach = new List<CanBo>();
+
+    public void NhapCanBo()
+    {
+        Console.WriteLine("\nChọn loại cán bộ:");
+        Console.WriteLine("1. Công nhân");
+        Console.WriteLine("2. Kỹ sư");
+        Console.WriteLine("3. Nhân viên");
+        Console.Write("Chọn (1-3): ");
+        int chon = int.Parse(Console.ReadLine());
+
+        CanBo cb = null;
+
+        switch (chon)
+        {
+            case 1: cb = new CongNhan(); break;
+            case 2: cb = new KySu(); break;
+            case 3: cb = new NhanVien(); break;
+            default:
+                Console.WriteLine("Lựa chọn không hợp lệ."); return;
+        }
+
+        Console.WriteLine("Nhập thông tin:");
+        cb.Nhap();
+        danhSach.Add(cb);
+        Console.WriteLine("==> Đã thêm cán bộ.");
+    }
+
+    public void HienThiDanhSach()
+    {
+        Console.WriteLine("\n--- DANH SÁCH CÁN BỘ ---");
+        foreach (var cb in danhSach)
+        {
+            Console.WriteLine($"\nLoại: {cb.Loai()}");
+            cb.Xuat();
+        }
+    }
+
+    public void TimKiemTheoHoTen()
+    {
+        Console.Write("\nNhập họ tên cần tìm: ");
+        string ten = Console.ReadLine();
+
+        Console.WriteLine($"\n--- KẾT QUẢ TÌM KIẾM: {ten} ---");
+        foreach (var cb in danhSach)
+        {
+            if (cb.HoTen.Contains(ten, StringComparison.OrdinalIgnoreCase))
+            {
+                cb.Xuat();
+                Console.WriteLine();
+            }
+        }
+    }
+}
+
+// Hàm chính
+class Program
+{
+    static void Main()
+    {
+        QLCB ql = new QLCB();
+        int chon;
+
+        do
+        {
+            Console.WriteLine("\n========== MENU ==========");
+            Console.WriteLine("1. Thêm cán bộ");
+            Console.WriteLine("2. Tìm kiếm theo họ tên");
+            Console.WriteLine("3. Hiển thị danh sách cán bộ");
+            Console.WriteLine("4. Thoát");
+            Console.Write("Chọn: ");
+            chon = int.Parse(Console.ReadLine());
+
+            switch (chon)
+            {
+                case 1: ql.NhapCanBo(); break;
+                case 2: ql.TimKiemTheoHoTen(); break;
+                case 3: ql.HienThiDanhSach(); break;
+                case 4: Console.WriteLine("Đã thoát chương trình."); break;
+                default: Console.WriteLine("Chọn sai, thử lại!"); break;
+            }
+
+        } while (chon != 4);
+    }
+}

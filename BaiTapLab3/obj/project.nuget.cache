@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "FL+1BMe6K1k=",
   "success": true,
   "projectFilePath": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\BaiTapLab3\\BaiTapLab3.csproj",
@@ -121,5 +122,11 @@
     "C:\\Users\\thuye\\.nuget\\packages\\system.threading.tasks.dataflow\\7.0.0\\system.threading.tasks.dataflow.7.0.0.nupkg.sha512",
     "C:\\Users\\thuye\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "fdy9zQb4tkY=",
+  "success": true,
+  "projectFilePath": "C:\\BACK_END\\LAB.3\\BaiTapLab3\\BaiTapLab3.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> e1d2f840b329d59cb0f7be18a2e9e9669af8599f
   "logs": []
 }
