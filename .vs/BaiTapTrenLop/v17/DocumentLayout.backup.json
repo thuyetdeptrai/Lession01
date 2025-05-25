@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE09F352-9DA4-488F-897D-D9CB48500A9B}|Lab3\\Lab3.csproj|c:\\baitapbackend\\baitaptrenlop\\lab3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE09F352-9DA4-488F-897D-D9CB48500A9B}|Lab3\\Lab3.csproj|solutionrelative:lab3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE09F352-9DA4-488F-897D-D9CB48500A9B}|Lab3\\Lab3.csproj|c:\\baitapbackend\\baitaptrenlop\\lab3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE09F352-9DA4-488F-897D-D9CB48500A9B}|Lab3\\Lab3.csproj|solutionrelative:lab3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE09F352-9DA4-488F-897D-D9CB48500A9B}|Lab3\\Lab3.csproj|c:\\baitapbackend\\baitaptrenlop\\lab3\\views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE09F352-9DA4-488F-897D-D9CB48500A9B}|Lab3\\Lab3.csproj|solutionrelative:lab3\\views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE09F352-9DA4-488F-897D-D9CB48500A9B}|Lab3\\Lab3.csproj|c:\\baitapbackend\\baitaptrenlop\\lab3\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE09F352-9DA4-488F-897D-D9CB48500A9B}|Lab3\\Lab3.csproj|solutionrelative:lab3\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE09F352-9DA4-488F-897D-D9CB48500A9B}|Lab3\\Lab3.csproj|c:\\baitapbackend\\baitaptrenlop\\lab3\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE09F352-9DA4-488F-897D-D9CB48500A9B}|Lab3\\Lab3.csproj|solutionrelative:lab3\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE09F352-9DA4-488F-897D-D9CB48500A9B}|Lab3\\Lab3.csproj|c:\\baitapbackend\\baitaptrenlop\\lab3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE09F352-9DA4-488F-897D-D9CB48500A9B}|Lab3\\Lab3.csproj|solutionrelative:lab3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7C0AFB-B7FC-4D40-AD09-5476C7CC8CF6}|BaiTapLab3\\BaiTapLab3.csproj|c:\\baitapbackend\\baitaptrenlop\\baitaplab3\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E7C0AFB-B7FC-4D40-AD09-5476C7CC8CF6}|BaiTapLab3\\BaiTapLab3.csproj|solutionrelative:baitaplab3\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7C0AFB-B7FC-4D40-AD09-5476C7CC8CF6}|BaiTapLab3\\BaiTapLab3.csproj|c:\\baitapbackend\\baitaptrenlop\\baitaplab3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7C0AFB-B7FC-4D40-AD09-5476C7CC8CF6}|BaiTapLab3\\BaiTapLab3.csproj|solutionrelative:baitaplab3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7C0AFB-B7FC-4D40-AD09-5476C7CC8CF6}|BaiTapLab3\\BaiTapLab3.csproj|c:\\baitapbackend\\baitaptrenlop\\baitaplab3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7C0AFB-B7FC-4D40-AD09-5476C7CC8CF6}|BaiTapLab3\\BaiTapLab3.csproj|solutionrelative:baitaplab3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\Lab3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\Lab3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:55:29.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\Lab3\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab3\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\Lab3\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Lab3\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T15:44:05.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\Lab3\\Views\\User\\Add.cshtml",
+              "RelativeDocumentMoniker": "Lab3\\Views\\User\\Add.cshtml",
+              "ToolTip": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\Lab3\\Views\\User\\Add.cshtml",
+              "RelativeToolTip": "Lab3\\Views\\User\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T15:05:35.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\BaiTapLab3\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLab3\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\BaiTapLab3\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "BaiTapLab3\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T14:50:50.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\BaiTapLab3\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BaiTapLab3\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\BaiTapLab3\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BaiTapLab3\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:40:15.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\BaiTapLab3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BaiTapLab3\\Models\\Product.cs",
+              "ToolTip": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\BaiTapLab3\\Models\\Product.cs",
+              "RelativeToolTip": "BaiTapLab3\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:39:17.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\Lab3\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab3\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\Lab3\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Lab3\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T14:36:44.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\Lab3\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Lab3\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\Lab3\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Lab3\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:34:42.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\Lab3\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Lab3\\Models\\User.cs",
+              "ToolTip": "C:\\BaiTapBackEnd\\BaiTapTrenLop\\Lab3\\Models\\User.cs",
+              "RelativeToolTip": "Lab3\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:31:45.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+@model List<User>
+<div class="container">
+    <h3>DANH SÁCH NGƯỜI DÙNG</h3>
+    <a class="btn btn-primary mb-2" href="/User/Add">Thêm mới</a>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>username</th>
+                <th>password</th>
+                <th>phone</th>
+                <th>email</th>
+                <th>action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.id</td>
+                    <td>@item.username</td>
+                    <td>@item.password</td>
+                    <td>@item.phone</td>
+                    <td>@item.email</td>
+                    <td>
+                        <div>
+                            <a class="btn btn-warning" asp-action="Edit" asp-controller="User" asp-route-id="@item.id">Edit</a>
+                            <a class="btn btn-danger" onclick="/User/Delete">Delete</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
